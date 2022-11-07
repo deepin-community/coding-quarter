@@ -9,6 +9,7 @@
 - 修BUG
 - 开发插件
 - 开发examples
+- 开发应用
 - deepin打包
 - 玲珑打包
 - flatpak打包
