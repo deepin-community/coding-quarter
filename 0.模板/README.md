@@ -8,6 +8,7 @@
 - 找BUG
 - 修BUG
 - 开发插件
+- 开发examples
 - deepin打包
 - 玲珑打包
 - flatpak打包
