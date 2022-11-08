@@ -35,10 +35,7 @@
 
 ### 涉及的项目/提交到何处
 
-- 此项目需要您将代码提交到 XXXXXXX 仓库之中
-- 对于 XXXX 的开发，可以直接在您自己的帐号下新建仓库进行开发。
-- 对于软件的打包，需要在 [deepin-community](https://github.com/deepin-community) 组织下申请创建仓库并在对应的仓库中进行开发，具体步骤参见[XXXX](https://wiki.deepin.org/相关的页面)
-- 您需要将文档提交到 XXXXXX
+- 项目请先自行创建仓库并维护即可。
 
 ### 参考文档
 
