@@ -91,11 +91,11 @@
 ### 联系方式
 
 <!--
-    请提供任务相关导师的交流/联系方式。
+    请提供任务相关对接人的交流/联系方式。
 
     （示例仅供参考，可视情况任意调整文字内容：）
-    此任务的导师为： @mentor @another_mentor
-    您也可以添加导师的微信/QQ/Matrix/Telegram/etc：XXXXXXX
+    此任务的对接人为： @mentor @another_mentor
+    您也可以添加对接人的微信/QQ/Matrix/Telegram/etc：XXXXXXX
     相关讨论群：XXXXXXX
 
     此外，您也可以在 XXXX 创建讨论主题来进行交流。
