@@ -21,6 +21,10 @@
 
 * 该工作流可以部署至个人项目中进行测试
 * 自测完毕后可提交到[deepin-community/ci-test](https://github.com/deepin-community/ci-test) 仓库中
+
+### 预计工作量
+* 单人60H
+
 ### 参考文档
 
 [Debian 软件包管理系统基础](https://www.debian.org/doc/manuals/debian-faq/pkg-basics.zh-cn.html)
