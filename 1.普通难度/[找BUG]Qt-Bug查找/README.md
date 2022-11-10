@@ -18,6 +18,8 @@ sudo apt-get install qt6-base-dev  //Qt6
 
 QtCreator 配置对应的qmake版本
 
+需要对Qt开发有一定的了解
+
 
 
 ### 验收标准
@@ -47,6 +49,10 @@ https://github.com/deepin-community/qtbase-opensource-src/issues
 https://github.com/deepin-community/qt6-base/issues
 
 
+
+### 预计工作量
+
+任务主要包括bug查找确认、编写复现demo、提交issues等，每个bug预计需要8～16小时
 
 ### 参考文档
 
