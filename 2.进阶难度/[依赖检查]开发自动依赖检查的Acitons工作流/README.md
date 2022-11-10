@@ -6,7 +6,7 @@
 
 2. 功能需求
 
-  利用github Actions 部署自动化工作流，定时触发自动检查，批量进行软件包的安装卸载等操作，输出失败的软件包名称记录到github仓库指定文件中。
+  利用github Actions 部署自动化工作流，定时触发自动检查，批量进行软件包的安装卸载等操作，输出失败的软件包名称记录到github仓库指定文件中, 可参考一下piuparts、autopkgtest 等工具
 
 ### 环境的准备
 
@@ -23,7 +23,7 @@
 * 自测完毕后可提交到[deepin-community/ci-test](https://github.com/deepin-community/ci-test) 仓库中
 
 ### 预计工作量
-* 单人60H
+* 单人80H
 
 ### 参考文档
 [GitHub Actions](https://docs.github.com/cn/actions)
@@ -35,6 +35,10 @@
 [reprepro 使用说明](https://manpages.debian.org/bullseye-backports/reprepro/reprepro.1.en.html)
 
 [aptly使用说明](https://www.aptly.info/doc/overview/)
+
+[autopkgtest](https://wiki.debian.org/ContinuousIntegration/autopkgtest)
+
+[piuparts](https://wiki.debian.org/piuparts)
 
 ### 联系方式
 
