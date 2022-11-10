@@ -19,7 +19,6 @@
    | hvml                                                         |                       |
    | apt-build<br/>apt-cacher<br/>apt-clone<br/>apt-config-auto-update<br/>apt-dater<br/>apt-dater-host<br/>apt-dpkg-ref<br/>apt-forktracer<br/>apt-file<br/>apt-mirror<br/>apt-offline<br/>apt-rdepends<br/>apt-setup<br/>apt-show-source<br/>apt-src<br/>apt-transport-in-toto<br/>apt-transport-s3<br/>apt-transport-tor<br/>apt-venv<br/>apt-xapian-index<br/> ... | apt系列工具包         |
    | android-androresolvd<br/>android-file-transfer<br/>android-framework-23<br/>android-platform-art<br/>android-platform-build<br/>android-platform-dalvik<br/>android-platform-development<br/>android-platform-external-boringssl<br/>android-platform-external-doclava<br/>android-platform-external-jsilver<br/>android-platform-external-libselinux<br/>android-platform-external-nist-sip<br/>android-platform-external-rappor<br/> ... | android系列工具包     |
-   |                                                              |                       |
 
    这里只列举了部分软件包，可以自行选择当前仓库未提供的软件包。
 ### 环境的准备
