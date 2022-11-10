@@ -6,11 +6,8 @@
 
 2. 功能需求
 
-<<<<<<< HEAD
   利用github Actions 部署自动化工作流，定时触发自动检查，批量进行软件包的安装卸载等操作，输出失败的软件包名称记录到github仓库指定文件中, 可参考一下piuparts、autopkgtest 等工具
-=======
-  利用github Actions 部署自动化工作流，定时触发自动检查，批量进行软件包的安装卸载等操作，输出失败的软件包名称记录到github仓库指定文件中。
->>>>>>> dbc0f6bf82942ebf8831733f74ecf28952f43a48
+
 
 ### 环境的准备
 
@@ -27,7 +24,7 @@
 * 自测完毕后可提交到[deepin-community/ci-test](https://github.com/deepin-community/ci-test) 仓库中
 
 ### 预计工作量
-<<<<<<< HEAD
+
 * 单人80H
 
 ### 参考文档
@@ -45,14 +42,11 @@
 
 [piuparts](https://wiki.debian.org/piuparts)
 
-=======
-* 单人60H
 
 ### 参考文档
 
 [Debian 软件包管理系统基础](https://www.debian.org/doc/manuals/debian-faq/pkg-basics.zh-cn.html)
 
->>>>>>> dbc0f6bf82942ebf8831733f74ecf28952f43a48
 ### 联系方式
 
 [deepin-pkg](https://github.com/deepin-community/SIG/tree/master/sig/deepin-pkg)
