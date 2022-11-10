@@ -21,6 +21,11 @@ deepin v23环境构建，需掌握仓库管理，debian打包构建等基础知�
 * 本地自行调试
 * 学习OBS平台的使用
 * 相关项目批量提交至[deepin-community](https://github.com/deepin-community)组织下
+
+### 预计工作量
+
+单人80H
+
 ### 参考文档
 
 [Debian 新维护者手册](https://www.debian.org/doc/manuals/maint-guide/index.zh-cn.html)
