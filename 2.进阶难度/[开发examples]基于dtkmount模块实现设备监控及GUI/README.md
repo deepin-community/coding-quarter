@@ -12,6 +12,7 @@
      - 设备名称通过 `dtkmount` 的 `DBlockDevice::idLabel` 函数
      - 设备总容量通过 `dtkmount` 的 `DBlockDevice::size` 函数获取，已用容量以 `QStorageInfo` 类型，构造挂载点（挂载点通过 `dtkmount` 中 `DBlockDevice::mountPoints` 函数获取）的对象，调用其 `byteAvailable` 函数获取其可用容量，总量-可用容量为设备已用量，以字符串显示，例如 2GB/3GB；容量显示需格式化为大于等于 1 的最大单位，例如 1024KB 显示为 1MB；
      - item 中元素排列方式自定，可参照文件管理器计算机页面磁盘 item 的排列方式
+   - 至少支持中英两种语言
 3. 功能需求：
    - 程序启动后，界面显示当前系统中存在的可用磁盘，通过 `dtkmount` 可获取设备列表；
    - 未挂载的设备不显示设备容量，挂载了的设备皆显示
@@ -39,6 +40,8 @@ sudo dpkg -i ../libdtkmount*  # 也可以手动选择不安装 dbgsym 和 doc �
 
 ```
 
+认领本任务需要确保对 Qt 编程和 Linux 磁盘与文件系统管理有一定的了解。
+
 ### 验收标准
 
 最终完成的应用程序应当能够提供下述功能：
@@ -59,15 +62,25 @@ sudo dpkg -i ../libdtkmount*  # 也可以手动选择不安装 dbgsym 和 doc �
 - 此项目需要您最终将代码提交到 `linuxdeepin/dtkio` 仓库之中
 - 在仓库中的 `dtkio/dtkmount/examples` 目录下存储您的代码
 
+### 预计工作量
+
+- 基本环境搭建：4 小时
+
+- 界面需求实现：8～16 小时
+
+- 功能需求实现：8 小时
+
 ### 参考文档
+
+- [QT 学习之路 2](https://www.devbean.net/2012/08/qt-study-road-2-catelog/)
 
 - [dtkmount 开发文档](https://github.com/linuxdeepin/dtkio/tree/master/dtkmount/docs)
 - [deepin 编码风格](https://github.com/linuxdeepin/deepin-styleguide)
+- [《鸟哥的 Linux 私房菜》第 7 章](https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/58.html)
 
 ### 联系方式
 
 此任务的任务对接人为： zhangsheng@uniontech.com
 
 可以通过邮件联系任务对接人获取其他更为方便的 IM 通讯方式。
-
 
