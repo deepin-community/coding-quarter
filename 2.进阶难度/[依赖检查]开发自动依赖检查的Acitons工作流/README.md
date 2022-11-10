@@ -26,8 +26,15 @@
 * 单人60H
 
 ### 参考文档
+[GitHub Actions](https://docs.github.com/cn/actions)
 
 [Debian 软件包管理系统基础](https://www.debian.org/doc/manuals/debian-faq/pkg-basics.zh-cn.html)
+
+[Debian存储库](https://wiki.debian.org/DebianRepository)
+
+[reprepro 使用说明](https://manpages.debian.org/bullseye-backports/reprepro/reprepro.1.en.html)
+
+[aptly使用说明](https://www.aptly.info/doc/overview/)
 
 ### 联系方式
 
