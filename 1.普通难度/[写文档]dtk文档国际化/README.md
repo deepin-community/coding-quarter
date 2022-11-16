@@ -26,8 +26,8 @@ doxygen的注释方式，详见doxygen的官方文档，要求英文注释写在
 
 ### 联系方式
 
-此任务的导师为： xiangzelong@uniontech.com
-可以通过邮件联系导师获取其他更为方便的im通讯方式。
+此任务的对接人为： xiangzelong@uniontech.com
+可以通过邮件联系对接人获取其他更为方便的im通讯方式。
 
 此外，您也可以在 linuxdeepin github 创建讨论主题来进行交流。
 
