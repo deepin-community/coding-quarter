@@ -35,8 +35,6 @@
 
 ## 获取帮助
 
-对于本次活动相关的疑问，您可以在对应的群聊中进行提问（二维码请见下方）。对于您所选的任务的相关疑问，您可以通过任务中描述的联系方式来取得帮助。
+对于本次活动相关的疑问，您可以在对应的群聊中、官方论坛、对应任务描述中所提及的位置，以及其它位置进行提问。对于您所选的任务的相关疑问，您可以通过任务中描述的联系方式来取得帮助。
 
 我们提倡将问题的讨论在公开的位置进行展开。对于此活动相关的开发类主题的帮助，您可以在[此仓库的讨论板](https://github.com/deepin-community/coding-quarter/discussions)中发起主题进行讨论。如果您在参与过程中遇到了通用性的问题（例如遇到了 DTK 的缺陷，持续集成使用方式或文档存在问题等），可在订阅 https://www.freelists.org/list/deepin-devel 后在此邮件列表中进行提问，或者在 [developer-center](https://github.com/linuxdeepin/developer-center) 中创建对应的 Issue（缺陷汇报用）或 Discussion（非缺陷类的讨论主题）讨论主题来进行讨论。
-
-![编程之季群聊二维码](./.media/qrcode.png)
