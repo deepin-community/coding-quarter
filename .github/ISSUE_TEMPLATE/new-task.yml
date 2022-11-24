@@ -40,3 +40,5 @@ body:
         另外，为便于交流，请在官方聊天渠道中备注自己的 GitHub 帐号。
       placeholder: |
         填写认领人员的联系方式
+    validations:
+      required: true
