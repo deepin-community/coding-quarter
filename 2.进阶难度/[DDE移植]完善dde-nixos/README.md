@@ -12,7 +12,7 @@ DDE 是深度桌面环境的简称， 基于 Qt 开发，目前主要在 deepin 
 
 参考资料：https://nixos.wiki/wiki/Creating_a_NixOS_live_CD
 
-预计用时：1 天
+预计用时：3 天
 
 软件常规升级以及 bug 修复，需要对 Nix 和 C++ 都有一定了解。
 
@@ -33,7 +33,7 @@ deepin-screensaver 是 DDE 的屏保程序，暂时没有打包进入 dde-nixos�
 
 详见：https://github.com/linuxdeepin/dde-nixos/issues/4
 
-普通 bug 预计耗时 6 小时每个，高难度暂不预计，可尝试挑战。
+普通 bug 预计耗时 1 天每个，高难度暂不预计，可尝试挑战。
 
 注意及时与 rewine 联系，防止重复工作。
 
