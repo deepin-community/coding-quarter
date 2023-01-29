@@ -36,8 +36,6 @@ deepin v23环境[可选]
 
 ### 联系方式
 
-### 联系方式
-
 deepin-riscv64 SIG: https://www.deepin.org/index/docs/sig/sig/deepin-riscv64/README
 
 建议加入 deepin-riscv64 SIG 的交流群:
